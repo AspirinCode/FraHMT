@@ -43,6 +43,4 @@ You will find your samples in the `results/samples` folder on your experiment ru
 
 * Wang, Shuang and Liang, Dingming and Wang, Jianmin and Dong, Kaiyu and Zhang, Yunjing and Liang, Huicong and Xu, Ximing and Song, Tao, FraHMT: A Fragment-Oriented Heterogeneous Graph Molecular Generation Model for Target Proteins, Journal of Chemical Information and Modeling, doi https://doi.org/10.1021/acs.jcim.4c00252
 
-* 
-
 
