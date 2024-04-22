@@ -35,3 +35,14 @@ After the model is trained, you can sample from it using
 
 where `<RUN_PATH>` is the path to the run directory of the experiment, which will be something like `RUNS/<date>@<time>-<hostname>-<dataset>` (`<date>`, `<time>`, `<hostname>`, `<dataset>` are placeholders of the actual data).
 You will find your samples in the `results/samples` folder on your experiment run directory.
+
+
+
+
+### Citation
+
+* Wang, Shuang and Liang, Dingming and Wang, Jianmin and Dong, Kaiyu and Zhang, Yunjing and Liang, Huicong and Xu, Ximing and Song, Tao, FraHMT: A Fragment-Oriented Heterogeneous Graph Molecular Generation Model for Target Proteins, Journal of Chemical Information and Modeling, doi https://doi.org/10.1021/acs.jcim.4c00252
+
+* 
+
+
